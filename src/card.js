@@ -15,7 +15,7 @@ export default function card(elem) {
           ${elem.description}
         </p>
 
-        <button class="mt-4 px-4 py-2  bg-[#373737] text-white rounded">
+        <button class="mt-4 px-4 py-2  bg-[#373737] text-white rounded hover:bg-[#151DE01C]">
           Order Now
         </button>
       </div>
